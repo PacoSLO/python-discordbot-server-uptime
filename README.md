@@ -1,4 +1,5 @@
-# Python Discord Bot Shows System Uptime
+# Python Discord Bot Shows Windows System Uptime 
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 Discord Bot that shows Windows System Uptime in the Status MSG and via the command !uptime to a discord channel.
 
 **Installation**
