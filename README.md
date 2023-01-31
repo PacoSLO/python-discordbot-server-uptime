@@ -13,7 +13,7 @@ Shows System Uptime in Status Msg and in discord channel via !uptime command
 <img
   src="https://github.com/PacoSLO/python-discordbot-server-uptime/blob/main/uptime.PNG"
   alt="Alt text"
-  title="Optional title"
+  title="Discord Uptime"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 **Credits**
