@@ -8,13 +8,14 @@ You need pip install discord.py and pip install -U python-dotenv on your machine
 
 **Features**
 ------------------
-```
-Shows System Uptime in Status Msg
-Pic
+Shows System Uptime in Status Msg and in discord channel via !uptime command
 
-and in discord channel via !uptime command
-Pic
-```
+<img
+  src="https://github.com/PacoSLO/python-discordbot-server-uptime/blob/main/uptime.PNG"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 **Credits**
 ------------------
 I just created a Discord Bot, via the code i found.  So if some owner want's something to be removed, Contact me.
