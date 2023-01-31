@@ -4,7 +4,7 @@ Discord Bot that shows Windows System Uptime in the Status MSG and via the comma
 
 **Installation**
 ------------------
-You need pip install discord.py and pip install -U python-dotenv on your machine. Then You can run the bot via the .bat script included.
+You need pip install discord.py and pip install -U python-dotenv on your machine. Then You can run the bot via the .bat script included. If you want you can set up a botrestart.bat script included in the package.
 
 **Features**
 ------------------
